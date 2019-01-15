@@ -46,3 +46,9 @@
     cursor: pointer;
     margin: 12px 0;
 }
+a{
+    color: white;
+    font-size: 13px;
+    position: absolute;
+    right: 40%;
+}
