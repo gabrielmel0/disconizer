@@ -27,9 +27,8 @@ body{
 .login-box{
     width: 600px;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 16%;
+    left: 23%;
     color: white;
 }
 .textbox{
