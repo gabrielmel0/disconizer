@@ -58,3 +58,7 @@ body{
     cursor: pointer;
     margin: 12px 0;
 }
+.form-group{
+    color: #333;
+    font-size: 12px;
+}
