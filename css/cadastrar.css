@@ -28,8 +28,8 @@ body{
     width: 600px;
     position: absolute;
     top: 35%;
-    left: 38%;
-    transform: translate(-50%, -50%);
+    left: 36%;
+    transform: translate(-35%, -36%);
     color: white;
 }
 .textbox{
@@ -51,10 +51,9 @@ body{
     margin: 0 10px;
 }
 .btn{
-    width: 100%;
-    background: none;
-    border: 1px solid #FF4632;
-    color: #333;
+    width: 25%;
+    background: #FF4632;
+    color: #FFF;
     padding: 5px;
     font-size: 12px;
     cursor: pointer;
